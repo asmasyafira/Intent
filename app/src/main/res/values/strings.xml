@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="move_with_data">Pindah dengan data</string>
+    <string name="data_received">Terima Data</string>
+    <string name="move_with_object">Pindah dengan objek</string>
+    <string name="object_received">Terima Objek</string>
+    <string name="dial_number">Ke Telepon</string>
+</resources>
